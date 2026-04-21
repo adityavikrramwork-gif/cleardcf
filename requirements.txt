@@ -1,7 +1,8 @@
-requests
+streamlit
 yfinance
-plotly
 pandas
 numpy
+plotly
+requests
 transformers
-torch
+torch	
